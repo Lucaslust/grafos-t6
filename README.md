@@ -1,4 +1,7 @@
 # T6 - Identificacao de Isomorfismo em Arvores
+## Video
+
+Link do video explicativo: https://youtu.be/PMOhxARYvg4
 
 Implementacao em **Java** do Trabalho Pratico 6 da disciplina
 **Resolucao de Problemas com Grafos**.
@@ -100,6 +103,4 @@ Para cada execucao, o programa imprime:
 Quando ao menos uma das entradas nao e uma arvore valida, a comparacao e
 interrompida e a razao da invalidade e exibida.
 
-## Video
 
-Link do video explicativo: PREENCHER
